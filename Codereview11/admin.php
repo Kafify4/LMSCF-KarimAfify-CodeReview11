@@ -112,7 +112,7 @@ $userRow=mysqli_fetch_array($res, MYSQLI_ASSOC);
         <th style="color: gold;">Website</th>
         <th style="color: gold;">Available Date</th>
         <th style="color: gold;">type</th>
-        <th style="color: gold;">Update</th>
+        <th style="color: gold;">Delete</th>
         
     </tr>
 </thead>
